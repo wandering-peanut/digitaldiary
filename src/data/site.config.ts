@@ -12,7 +12,7 @@ interface SiteConfig {
 export const siteConfig: SiteConfig = {
 	site: 'https://digitaldiary-7hgkb02ss-wandering-peanuts-projects.vercel.app/', // Write here your website url
 	author: 'peanut', // Site author
-	title: 'wandering peanut', // Site title.
+	title: 'Wandering Peanut', // Site title.
 	description: 'my blog', // Description to display in the meta tags
 	lang: 'en-GB',
 	ogLocale: 'en_GB',
